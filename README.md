@@ -3,9 +3,7 @@
 ## Sobre mim:
     Sou um apaixonado por tecnologia e Gastronomia, duas áreas bem distintas, pois é. Atualmente sou
     chef de cozinha, mas estou estudando programação para migrar de área, e buscando oportunidades de um
-    começo de carreira na tecnologia. Estou começando pelo Python focando na ciência de dados, mas no
-    decorrer dos cursos tenho tomado gosto também pelo front-end. Espero poder contribuir bastante para 
-    a comunidade da DIO e conhecer pessoas que tenham visões de mundo parecidas.
+    começo de carreira na tecnologia. Estou começando pelo Python focando na ciência de dados.
 ## *Conecte-se comigo!*
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/ricardo-da-silva-santos-875355165/)
 [![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=Instagram&logoColor=)](https://www.instagram.com/r_das1lva/)
