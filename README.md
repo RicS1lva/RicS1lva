@@ -9,7 +9,6 @@
 [![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=Instagram&logoColor=)](https://www.instagram.com/r_das1lva/)
 [![Xwitter](https://img.shields.io/badge/Xwitter-000?style=for-the-badge&logo=x&logoColor=)](https://twitter.com/rmind_echoes_)
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=GitHub&logoColor=)](https://github.com/RicS1lva)
-[![DIO](https://img.shields.io/badge/DIO-000?style=for-the-badge&logo=DigitalinnovationOne&logoColor=)](https://www.dio.me/users/ricardo_ssk2)
 [![Email](https://img.shields.io/badge/Email-000?style=for-the-badge&logo=Gmail&Color=)](mailto:ricardo.ssk2@gmail.com)
 
 ## *Linguagens e Tecnologias*
