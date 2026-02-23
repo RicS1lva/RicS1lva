@@ -18,8 +18,4 @@
 ![Microsoft](https://img.shields.io/badge/Windows-250070?style=for-the-badge&logo=Windows)
 ![Office](https://img.shields.io/badge/Pacote_Office-250070?style=for-the-badge&logo=MicrosoftOffice)
 
-## *Status do GitHub*
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RicS1lva&theme=black&bg_color=000&border_color=800080&show_icons=true&icon_color=993399&title_color=993399&text_color=FFF)
-
-##
 
