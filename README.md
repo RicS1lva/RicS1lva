@@ -4,10 +4,11 @@
     Sou um apaixonado por tecnologia e Gastronomia, duas áreas bem distintas, pois é. Atualmente sou
     chef de cozinha, mas estou estudando programação para migrar de área, e buscando oportunidades de um
     começo de carreira na tecnologia. Estou começando pelo Python focando na ciência de dados.
+
+
 ## *Conecte-se comigo!*
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/ricardo-da-silva-santos-875355165/)
 [![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=Instagram&logoColor=)](https://www.instagram.com/r_das1lva/)
-[![Xwitter](https://img.shields.io/badge/Xwitter-000?style=for-the-badge&logo=x&logoColor=)](https://twitter.com/rmind_echoes_)
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=GitHub&logoColor=)](https://github.com/RicS1lva)
 [![Email](https://img.shields.io/badge/Email-000?style=for-the-badge&logo=Gmail&Color=)](mailto:ricardo.ssk2@gmail.com)
 
