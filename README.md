@@ -7,7 +7,7 @@
 
 
 ## *Conecte-se comigo!*
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/ricardo-da-silva-santos-875355165/)
+[![LinkedIn](https://static.vecteezy.com/system/resources/thumbnails/023/986/926/small_2x/linkedin-logo-linkedin-logo-transparent-linkedin-icon-transparent-free-free-png.png)](https://www.linkedin.com/in/ricardo-da-silva-santos-875355165/)
 [![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=Instagram&logoColor=)](https://www.instagram.com/r_das1lva/)
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=GitHub&logoColor=)](https://github.com/RicS1lva)
 [![Email](https://img.shields.io/badge/Email-000?style=for-the-badge&logo=Gmail&Color=)](mailto:ricardo.ssk2@gmail.com)
