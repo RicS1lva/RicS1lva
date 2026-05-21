@@ -1,10 +1,12 @@
 # *Ricardo da Silva*
 
 ## Sobre mim:
-    Sou um apaixonado por tecnologia e Gastronomia, duas áreas bem distintas, pois é. Atualmente sou
-    chef de cozinha, mas estou estudando programação para migrar de área, e buscando oportunidades de um
+    Atualmente sou chef de cozinha, mas estou estudando programação para transicionar de área, buscando oportunidades de um
     começo de carreira na tecnologia. Estou começando pelo Python focando na ciência de dados.
 
+## Objetivo
+
+    Construir soluções orientadas a dados e evoluir profissionalmente nas áreas de Analytics, Ciência de Dados e Engenharia de Dados.
 
 ## *Conecte-se comigo!*
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/ricardo-da-silva-santos-875355165/)
